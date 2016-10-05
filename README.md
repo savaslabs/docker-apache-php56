@@ -47,6 +47,7 @@ Installed packages
 * php5-ldap
 * php5-mysql
 * php5-pgsql
+* php5-curl
 
 Configurations
 ----------------
